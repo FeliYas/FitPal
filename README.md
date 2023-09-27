@@ -1,1 +1,1 @@
-# FitPal
+# Proyecto de FitPal - Felipe Yaschischin
